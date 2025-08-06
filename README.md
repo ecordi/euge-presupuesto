@@ -35,7 +35,7 @@
 #### **4. SECCIÓN SERVICIOS**
 
 - Título de sección
-- Grid de 2-4 servicios principales
+- Grid de servicios principales
 - Cada servicio incluye:
 
 - Ícono representativo
