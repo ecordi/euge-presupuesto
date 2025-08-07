@@ -222,3 +222,9 @@
 
 
 **Total estimado**: Sitio web profesional completo con funcionalidades avanzadas, sistema de reservas, panel administrativo y múltiples integraciones 650 usd.
+
+Actualizacion: 07-08-2025-Eugenio Cordi
+Se contemplara la creacion de la seccion de un CRUD de cursos y talleres tanto de front como backend.
+Queda a cargo de Eugenia el costo de la plataforma a utilizar ya se cloudinary o gcp-buckets (buckets de google) donde se almacenaran los videos
+
+
